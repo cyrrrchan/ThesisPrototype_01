@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bass
+  - FX
+  - HitHat
+  - Kick
+  - LiveInstruments
+  - Loop
+  - Snare
+  - Strings
+  - Synth
+  - Voice
   layers:
   - Default
   - TransparentFX
